@@ -1,233 +1,17 @@
 {
   "vaultName": "WORLDS AND VERSES",
-  "lastExport": 1737903134364,
+  "lastExport": 1737912388411,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "~ Backroom/Dwarf Fortress/DWARF FORTRESS.md",
-    "~ Backroom/Dwarf Fortress/Dwarf Fortress language.md",
-    "~ Backroom/Dataview Character List.md",
-    "~ Backroom/Roleplay Characters.md",
-    "~ Backroom/Roleplay Starter Menu.md",
-    "0. Profile Pinned/Advertisement.md",
-    "0. Profile Pinned/Appreciation Post.md",
-    "0. Profile Pinned/Fera World Basic Information.md",
-    "0. Settings & Misc/0. Templates/0. Character Template.md",
-    "0. Settings & Misc/0. Templates/1. Roleplay Template.md",
-    "0. Settings & Misc/0. Templates/2. Book Template.md",
-    "0. Settings & Misc/0. Templates/3. Character codebox Template.md",
-    "0. Settings & Misc/0. Templates/Discord Roleplay Template.md",
-    "0. Settings & Misc/Transcribe Notes/Audio Files/AC690000.wav",
-    "0. Settings & Misc/Transcribe Notes/AC690000 Text Transcribe.md",
-    "0. Settings & Misc/Notes.md",
-    "3. Source Books & Information/D&D3.5/DND 3.5 Source links.md",
-    "3. Source Books & Information/A Conlanger's Thesaurus.pdf",
-    "3. Source Books & Information/Comparative_Wages_Prices_and_Cost_of_Liv.pdf",
-    "3. Source Books & Information/EE1-Equipment-Emporium-r24.pdf",
-    "3. Source Books & Information/Garry Gygax Names.pdf",
-    "3. Source Books & Information/Sumerian Cuneiform English Dictionary 12013CT 26i14 PDF.pdf",
-    "4. Plots/Fera/Upon the Precipice Series/Crews/ISS Invincible/Tobias Flügel.md",
-    "4. Plots/Fera/Upon the Precipice Series/Crew of the ISS Invincible.md",
-    "4. Plots/Story Notes/Vampire Story/0. Vampire Plot.md",
-    "4. Plots/Story Notes/Vampire Story/1. Vampire Plot - Enter village.md",
-    "4. Plots/Story Notes/Vampire Story/2. Vampire Plot - Attack during Night.md",
-    "4. Plots/Story Notes/Josephine Story Notes.md",
-    "4. Plots/Void Apostasy/Hive of Scum & Villany.md",
-    "4. Plots/Idea's.md",
-    "5. Books/In Review/The Lost and the Damned - A Writer's Firestorm.md",
-    "5. Books/Non-Published/Novel/Citadel of Darkness (Novel).md",
-    "5. Books/Non-Published/Novel/Desert Rat (Novel).md",
-    "5. Books/Non-Published/Novel/Empire of Love (Novel).md",
-    "5. Books/Non-Published/Novel/Harlot of Yesterday (Novel).md",
-    "5. Books/Non-Published/Novel/Lost In Darkness (Novel).md",
-    "5. Books/Non-Published/Novel/Noble Blood, Tainted Hands (Novel).md",
-    "5. Books/Non-Published/Novel/Rosutko (Novel).md",
-    "5. Books/Non-Published/Novel/The Ascetic of Appetence (Novel).md",
-    "5. Books/Non-Published/Novel/The Children of the Banquet (Novel).md",
-    "5. Books/Non-Published/Novel/The Dasterdly Tales of the Van Der Graphe Gang (Novel).md",
-    "5. Books/Non-Published/Novel/The Kings under the Mountains (Novel).md",
-    "5. Books/Non-Published/Novel/The Queen is Dead (Novel).md",
-    "5. Books/Non-Published/Novel/The Ravensburg Chronicles (Novel).md",
-    "5. Books/Non-Published/Novel/The Stranger of the Creed (Novel).md",
-    "5. Books/Non-Published/Novel/Traitor In Love (Novel).md",
-    "5. Books/Non-Published/Novel/Upon the Precipice (Novel).md",
-    "5. Books/Non-Published/Novella/A Ghoulish Case (Novella).md",
-    "5. Books/Non-Published/Novella/Project Kriegerin (Novella).md",
-    "5. Books/Non-Published/Novella/The Musketeer's Gambit Tales of Honour and Swordplay (Short Story Collection).md",
-    "5. Books/Non-Published/Short Story/An Ascent into Madness (Short Story).md",
-    "5. Books/Non-Published/Short Story/Asuka Kosuke (Short Story).md",
-    "5. Books/Non-Published/Short Story/Bey Story (Short Story).md",
-    "5. Books/Non-Published/Short Story/Bright (Short Story).md",
-    "5. Books/Non-Published/Short Story/Chastitiy's Nook (Short Story).md",
-    "5. Books/Non-Published/Short Story/Dorothee Story (Short Story).md",
-    "5. Books/Non-Published/Short Story/Drifting (Short Story).md",
-    "5. Books/Non-Published/Short Story/Enter the Gates (Short Story).md",
-    "5. Books/Non-Published/Short Story/Fae Love Story (Short Story).md",
-    "5. Books/Non-Published/Short Story/Fraternal Hunter (Short Story).md",
-    "5. Books/Non-Published/Short Story/Gunslinger (Short Story).md",
-    "5. Books/Non-Published/Short Story/Honourable Warrior (Short Story).md",
-    "5. Books/Non-Published/Short Story/House of Sin (Short Story).md",
-    "5. Books/Non-Published/Short Story/In Shadow (Short Story).md",
-    "5. Books/Non-Published/Short Story/Marx (Short Story).md",
-    "5. Books/Non-Published/Short Story/Nehir Nur (Short Story).md",
-    "5. Books/Non-Published/Short Story/Royal Protector (Short Story).md",
-    "5. Books/Non-Published/Short Story/Ryder (Short Story).md",
-    "5. Books/Non-Published/Short Story/Schriftstellar (Short Story).md",
-    "5. Books/Non-Published/Short Story/Sink the Caeser (Short Story).md",
-    "5. Books/Non-Published/Short Story/Siren Story (Short Story).md",
-    "5. Books/Non-Published/Short Story/Sister of Sin (Short Story).md",
-    "5. Books/Non-Published/Short Story/Spec Ops (Short Story).md",
-    "5. Books/Non-Published/Short Story/The Case of the Imperial Ripper (Short Story).md",
-    "5. Books/Non-Published/Short Story/The Collected Stories of Kimura Yasunori (Short Story).md",
-    "5. Books/Non-Published/Short Story/The Darkest Nights (Short Story).md",
-    "5. Books/Non-Published/Short Story/The Last Kral Sah of Nargaroth (Short Story).md",
-    "5. Books/Non-Published/Short Story/The Lost Expedition (Short Story).md",
-    "5. Books/Non-Published/Short Story/The Order of Scales (Short Story).md",
-    "5. Books/Non-Published/Short Story/The Tunnels of Despair (Short Story).md",
-    "5. Books/Non-Published/Short Story/The Twins Unsal (Short Story).md",
-    "5. Books/Non-Published/Short Story/War Sniper (Short Story).md",
-    "5. Books/Non-Published/Short Story/Washed Up (Short Story).md",
-    "5. Books/Published/Novel/Arizali (Novel).md",
-    "5. Books/Published/Novel/Entitled (Novel).md",
-    "5. Books/Published/Novel/The Man Who Would Be King (Novel).md",
-    "5. Books/Published/Novel/The Ten Rings (Novel).md",
-    "5. Books/Published/Novel/The Way The Stars Fall 1. Rebirth (Novel).md",
-    "5. Books/Published/Novel/The Way The Stars Fall 2. Resurgence (Novel).md",
-    "5. Books/Published/Novella/Curse Of A Paladin  (Novella).md",
-    "5. Books/Published/Novella/Knightly Vows (Novella).md",
-    "5. Books/Published/Novella/The Shikari Series 1.0 - Retirement (Novella).md",
-    "5. Books/Published/Novella/The Shikari Series 2.0 - The Order of the Shattered Shield (Novella).md",
-    "5. Books/Published/Novella/Void Apostasy 1. The Mystery of Gregoruta 13Y (Novella).md",
-    "5. Books/Published/Novella/Void Apostasy 2. The Eternal Enlightenment (Novella).md",
-    "5. Books/Published/Short Story/A Chance Encounter ( Short Story).md",
-    "5. Books/Published/Short Story/A Child's War (Short Story).md",
-    "5. Books/Published/Short Story/A Quick Jaunt Over The Wire (Short Story).md",
-    "5. Books/Published/Short Story/As The World Went Black (Short Story).md",
-    "5. Books/Published/Short Story/Comrade In Arms (Short Story).md",
-    "5. Books/Published/Short Story/Five Finger Discount (Short Story).md",
-    "5. Books/Published/Short Story/For Whom The Bells Toll (Short story).md",
-    "5. Books/Published/Short Story/Heiress (Short Story).md",
-    "5. Books/Published/Short Story/Hold the Line (Short Story).md",
-    "5. Books/Published/Short Story/Homestead (Short Story).md",
-    "5. Books/Published/Short Story/I'll Keep Coming (Short Story).md",
-    "5. Books/Published/Short Story/Invitation (Short Story).md",
-    "5. Books/Published/Short Story/Lost (Short Story).md",
-    "5. Books/Published/Short Story/Memory (Short Story).md",
-    "5. Books/Published/Short Story/Of Knights And Kings (Short Story).md",
-    "5. Books/Published/Short Story/Old Wounds (Short Story).md",
-    "5. Books/Published/Short Story/On A Night Darkly (Short Story).md",
-    "5. Books/Published/Short Story/Rendezvous (Short Story).md",
-    "5. Books/Published/Short Story/Shield-Maiden (Short Story).md",
-    "5. Books/Published/Short Story/Siege of Kalcata (Short Story).md",
-    "5. Books/Published/Short Story/The Curse of Humanity (Short Story).md",
-    "5. Books/Published/Short Story/The Fall - Ghost Arc (Short Story).md",
-    "5. Books/Published/Short Story/The Fall - Navy Arc (Short Story).md",
-    "5. Books/Published/Short Story/The Last Terran Sol (Short Story).md",
-    "5. Books/Published/Short Story/The Seeds of Beauvon (Short Story).md",
-    "5. Books/Published/Short Story/The Shikari Series 0.5 - For Monsters (Short Story).md",
-    "5. Books/Published/Short Story/The Usta Zalim (Short Story).md",
-    "5. Books/Published/Short Story/They Came At Night (Short Story).md",
-    "5. Books/Published/Short Story/Throuble on the Intercontinental (Short Story).md",
-    "5. Books/Published/Short Story/Upon My Return (Short Story).md",
-    "5. Books/Faithless 1. Faith In Drugs (Short Story).md",
-    "5. Books/Faithless 2. Faith In Love (Short Story).md",
-    "5. Books/Faithless 3. Faith In School (Short Story).md",
-    "5. Books/List of Books.md",
-    "Change Log.md",
-    "Main Menu.md",
-    "publish.css",
-    "README.md",
-    "lib/media/screenshot_1.png",
-    "lib/media/screenshot_2.png",
-    "lib/media/screenshot_3.png",
-    "lib/media/screenshot_4.png",
-    "lib/media/screenshot_5.png",
-    "lib/media/screenshot_6.png",
-    "lib/media/screenshot_7.png",
-    "lib/media/screenshot_8.png",
-    "lib/media/screenshot_9.png",
-    "lib/media/screenshot_10.png",
-    "lib/media/screenshot_11.png",
-    "lib/media/screenshot_12.png",
-    "lib/media/creative-writing.jpg",
-    "lib/media/pasted-image-20220711174938.png",
-    "lib/media/pasted-image-20220711175321.jpg",
-    "lib/media/quillcutiemark.png",
-    "lib/media/a-writer's-firestorm.png",
-    "lib/media/citadel-of-darkness.png",
-    "lib/media/empire-of-love.png",
-    "lib/media/harlot-of-yesterday.png",
-    "lib/media/lost-in-darkness.png",
-    "lib/media/rosutko.png",
-    "lib/media/the-ascetic-of-appetence.png",
-    "lib/media/the-children-of-the-banquet.png",
-    "lib/media/the-dastardly-tales-of-the-van-der-graphe-gang.png",
-    "lib/media/the-queen-is-dead.png",
-    "lib/media/the-stranger-of-the-creed_1.png",
-    "lib/media/traitor-in-love.png",
-    "lib/media/a-ghoulish-case.png",
-    "lib/media/project-kriegerin.jpg",
-    "lib/media/bright.png",
-    "lib/media/chastity's-nook.png",
-    "lib/media/drifting.png",
-    "lib/media/enter-the-gates.png",
-    "lib/media/fraternal-hunter.png",
-    "lib/media/gunslinger.png",
-    "lib/media/in-shadow.png",
-    "lib/media/nehir-nur.png",
-    "lib/media/royal-protector.png",
-    "lib/media/ryder.png",
-    "lib/media/sink-the-caesar.png",
-    "lib/media/sister-of-sin.png",
-    "lib/media/the-last-kräl-şah-of-nargaroth.png",
-    "lib/media/the-lost-expedition.png",
-    "lib/media/the-order-of-scales.png",
-    "lib/media/the-twins-unsal.png",
-    "lib/media/arizali.png",
-    "lib/media/entitled.png",
-    "lib/media/the-man-who-would-be-king-cover.png",
-    "lib/media/the-ten-rings.png",
-    "lib/media/twtsf-1-rebirth-front.png",
-    "lib/media/twtsf-2-resurgence-front.png",
-    "lib/media/curseofapaladin.png",
-    "lib/media/knightly-vows.png",
-    "lib/media/shikari-1.0-the-retirement.png",
-    "lib/media/shikari-2.0-order-of-the-shattered-shield.png",
-    "lib/media/1.-the-mystery-of-gregoruta-13y.png",
-    "lib/media/2.-the-eternal-enlightenment.png",
-    "lib/media/a-chance-encounter.png",
-    "lib/media/a-child's-war.png",
-    "lib/media/a-quick-jaunt.jpg",
-    "lib/media/comrades-in-arms.png",
-    "lib/media/five-finger-discount.png",
-    "lib/media/heiress.png",
-    "lib/media/hold-the-line.png",
-    "lib/media/homestead.png",
-    "lib/media/illkeepcoming.png",
-    "lib/media/invitation.png",
-    "lib/media/lost.png",
-    "lib/media/memory.png",
-    "lib/media/of-knights-and-kings.png",
-    "lib/media/old-wounds.png",
-    "lib/media/on-a-night-darkly.png",
-    "lib/media/rendezvous.png",
-    "lib/media/shield-maiden.png",
-    "lib/media/siege-of-kalcata.png",
-    "lib/media/the-curse-of-humanity.png",
-    "lib/media/the-fall-ghost-stories.png",
-    "lib/media/the-fall-the-navy.png",
-    "lib/media/the-last-terran-sol.png",
-    "lib/media/the-seeds-of-beauvon.png",
-    "lib/media/shikari-0.5-for-monsters.png",
-    "lib/media/the-usta-zalim.png",
-    "lib/media/they-came-at-night.png",
-    "lib/media/trouble-on-the-intercontinental.png",
-    "lib/media/uponmyreturn.png",
-    "lib/media/[faith-1]-faith-in-drugs.png",
-    "lib/media/[faith-2]-faith-in-love.png",
-    "lib/media/[faith-3]-faith-in-school.png",
+    "2. Roleplay/Citadel of Darkness Character List.md",
+    "2. Roleplay/Faithless Character List.md",
+    "2. Roleplay/Fera World Character List.md",
+    "2. Roleplay/FULL Roleplay Character List.md",
+    "2. Roleplay/Roleplay Starters.md",
+    "2. Roleplay/Void Apostasy Character List.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -288,1669 +72,206 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "/Users/Lewis Backroom/Dwarf Fortress/DWARF FORTRESS.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 401,
-      "exportedPath": "/users/lewis-backroom/dwarf-fortress/dwarf-fortress.html",
-      "dependencies": [
-        "lib/media/screenshot_1.png",
-        "lib/media/screenshot_2.png",
-        "lib/media/screenshot_3.png",
-        "lib/media/screenshot_4.png",
-        "lib/media/screenshot_5.png",
-        "lib/media/screenshot_6.png",
-        "lib/media/screenshot_7.png",
-        "lib/media/screenshot_8.png",
-        "lib/media/screenshot_9.png",
-        "lib/media/screenshot_10.png",
-        "lib/media/screenshot_11.png",
-        "lib/media/screenshot_12.png"
-      ]
-    },
-    "/Users/Lewis Backroom/Dwarf Fortress/Dwarf Fortress language.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 120554,
-      "exportedPath": "/users/lewis-backroom/dwarf-fortress/dwarf-fortress-language.html",
-      "dependencies": []
-    },
-    "/Users/Lewis Backroom/Dataview Character List.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 311,
-      "exportedPath": "/users/lewis-backroom/dataview-character-list.html",
-      "dependencies": []
-    },
-    "/Users/Lewis Backroom/Roleplay Characters.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 628,
-      "exportedPath": "/users/lewis-backroom/roleplay-characters.html",
-      "dependencies": []
-    },
-    "/Users/Lewis Backroom/Roleplay Starter Menu.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 201,
-      "exportedPath": "/users/lewis-backroom/roleplay-starter-menu.html",
-      "dependencies": []
-    },
-    "0. Profile Pinned/Advertisement.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 286,
-      "exportedPath": "0.-profile-pinned/advertisement.html",
-      "dependencies": [
-        "lib/media/creative-writing.jpg"
-      ]
-    },
-    "0. Profile Pinned/Appreciation Post.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 142,
-      "exportedPath": "0.-profile-pinned/appreciation-post.html",
-      "dependencies": [
-        "lib/media/pasted-image-20220711174938.png"
-      ]
-    },
-    "0. Profile Pinned/Fera World Basic Information.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 1475,
-      "exportedPath": "0.-profile-pinned/fera-world-basic-information.html",
-      "dependencies": [
-        "lib/media/pasted-image-20220711175321.jpg"
-      ]
-    },
-    "0. Settings & Misc/0. Templates/0. Character Template.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 722,
-      "exportedPath": "0.-settings-&-misc/0.-templates/0.-character-template.html",
-      "dependencies": []
-    },
-    "0. Settings & Misc/0. Templates/1. Roleplay Template.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 150,
-      "exportedPath": "0.-settings-&-misc/0.-templates/1.-roleplay-template.html",
-      "dependencies": []
-    },
-    "0. Settings & Misc/0. Templates/2. Book Template.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 475,
-      "exportedPath": "0.-settings-&-misc/0.-templates/2.-book-template.html",
-      "dependencies": []
-    },
-    "0. Settings & Misc/0. Templates/3. Character codebox Template.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 267,
-      "exportedPath": "0.-settings-&-misc/0.-templates/3.-character-codebox-template.html",
-      "dependencies": []
-    },
-    "0. Settings & Misc/0. Templates/Discord Roleplay Template.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 188,
-      "exportedPath": "0.-settings-&-misc/0.-templates/discord-roleplay-template.html",
-      "dependencies": []
-    },
-    "0. Settings & Misc/Transcribe Notes/Audio Files/AC690000.wav": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 10682368,
-      "exportedPath": "0.-settings-&-misc/transcribe-notes/audio-files/ac690000.wav",
-      "dependencies": []
-    },
-    "0. Settings & Misc/Transcribe Notes/AC690000 Text Transcribe.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 1335,
-      "exportedPath": "0.-settings-&-misc/transcribe-notes/ac690000-text-transcribe.html",
-      "dependencies": []
-    },
-    "0. Settings & Misc/Notes.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 3622,
-      "exportedPath": "0.-settings-&-misc/notes.html",
-      "dependencies": [
-        "lib/media/quillcutiemark.png"
-      ]
-    },
-    "3. Source Books & Information/D&D3.5/DND 3.5 Source links.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 103,
-      "exportedPath": "3.-source-books-&-information/d&d3.5/dnd-3.5-source-links.html",
-      "dependencies": []
-    },
-    "3. Source Books & Information/A Conlanger's Thesaurus.pdf": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 486208,
-      "exportedPath": "3.-source-books-&-information/a-conlanger's-thesaurus.pdf",
-      "dependencies": []
-    },
-    "3. Source Books & Information/Comparative_Wages_Prices_and_Cost_of_Liv.pdf": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 14221931,
-      "exportedPath": "3.-source-books-&-information/comparative_wages_prices_and_cost_of_liv.pdf",
-      "dependencies": []
-    },
-    "3. Source Books & Information/EE1-Equipment-Emporium-r24.pdf": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 14513797,
-      "exportedPath": "3.-source-books-&-information/ee1-equipment-emporium-r24.pdf",
-      "dependencies": []
-    },
-    "3. Source Books & Information/Garry Gygax Names.pdf": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 5905628,
-      "exportedPath": "3.-source-books-&-information/garry-gygax-names.pdf",
-      "dependencies": []
-    },
-    "3. Source Books & Information/Sumerian Cuneiform English Dictionary 12013CT 26i14 PDF.pdf": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 3937797,
-      "exportedPath": "3.-source-books-&-information/sumerian-cuneiform-english-dictionary-12013ct-26i14-pdf.pdf",
-      "dependencies": []
-    },
-    "4. Plots/Fera/Upon the Precipice Series/Crews/ISS Invincible/Tobias Flügel.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 614,
-      "exportedPath": "4.-plots/fera/upon-the-precipice-series/crews/iss-invincible/tobias-flügel.html",
-      "dependencies": []
-    },
-    "4. Plots/Fera/Upon the Precipice Series/Crew of the ISS Invincible.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 1465,
-      "exportedPath": "4.-plots/fera/upon-the-precipice-series/crew-of-the-iss-invincible.html",
-      "dependencies": []
-    },
-    "4. Plots/Story Notes/Vampire Story/0. Vampire Plot.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 1227,
-      "exportedPath": "4.-plots/story-notes/vampire-story/0.-vampire-plot.html",
-      "dependencies": []
-    },
-    "4. Plots/Story Notes/Vampire Story/1. Vampire Plot - Enter village.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 3602,
-      "exportedPath": "4.-plots/story-notes/vampire-story/1.-vampire-plot-enter-village.html",
-      "dependencies": []
-    },
-    "4. Plots/Story Notes/Vampire Story/2. Vampire Plot - Attack during Night.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 21,
-      "exportedPath": "4.-plots/story-notes/vampire-story/2.-vampire-plot-attack-during-night.html",
-      "dependencies": []
-    },
-    "4. Plots/Story Notes/Josephine Story Notes.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 1141,
-      "exportedPath": "4.-plots/story-notes/josephine-story-notes.html",
-      "dependencies": []
-    },
-    "4. Plots/Void Apostasy/Hive of Scum & Villany.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 4040,
-      "exportedPath": "4.-plots/void-apostasy/hive-of-scum-&-villany.html",
-      "dependencies": []
-    },
-    "4. Plots/Idea's.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 2707,
-      "exportedPath": "4.-plots/idea's.html",
-      "dependencies": []
-    },
-    "5. Books/In Review/The Lost and the Damned - A Writer's Firestorm.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 3912,
-      "exportedPath": "5.-books/in-review/the-lost-and-the-damned-a-writer's-firestorm.html",
-      "dependencies": [
-        "lib/media/a-writer's-firestorm.png"
-      ]
-    },
-    "5. Books/Non-Published/Novel/Citadel of Darkness (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 34325,
-      "exportedPath": "5.-books/non-published/novel/citadel-of-darkness-(novel).html",
-      "dependencies": [
-        "lib/media/citadel-of-darkness.png"
-      ]
-    },
-    "5. Books/Non-Published/Novel/Desert Rat (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 449,
-      "exportedPath": "5.-books/non-published/novel/desert-rat-(novel).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Novel/Empire of Love (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 405,
-      "exportedPath": "5.-books/non-published/novel/empire-of-love-(novel).html",
-      "dependencies": [
-        "lib/media/empire-of-love.png"
-      ]
-    },
-    "5. Books/Non-Published/Novel/Harlot of Yesterday (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 420,
-      "exportedPath": "5.-books/non-published/novel/harlot-of-yesterday-(novel).html",
-      "dependencies": [
-        "lib/media/harlot-of-yesterday.png"
-      ]
-    },
-    "5. Books/Non-Published/Novel/Lost In Darkness (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 413,
-      "exportedPath": "5.-books/non-published/novel/lost-in-darkness-(novel).html",
-      "dependencies": [
-        "lib/media/lost-in-darkness.png"
-      ]
-    },
-    "5. Books/Non-Published/Novel/Noble Blood, Tainted Hands (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 3138,
-      "exportedPath": "5.-books/non-published/novel/noble-blood,-tainted-hands-(novel).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Novel/Rosutko (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 386,
-      "exportedPath": "5.-books/non-published/novel/rosutko-(novel).html",
-      "dependencies": [
-        "lib/media/rosutko.png"
-      ]
-    },
-    "5. Books/Non-Published/Novel/The Ascetic of Appetence (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 437,
-      "exportedPath": "5.-books/non-published/novel/the-ascetic-of-appetence-(novel).html",
-      "dependencies": [
-        "lib/media/the-ascetic-of-appetence.png"
-      ]
-    },
-    "5. Books/Non-Published/Novel/The Children of the Banquet (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 461,
-      "exportedPath": "5.-books/non-published/novel/the-children-of-the-banquet-(novel).html",
-      "dependencies": [
-        "lib/media/the-children-of-the-banquet.png"
-      ]
-    },
-    "5. Books/Non-Published/Novel/The Dasterdly Tales of the Van Der Graphe Gang (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 503,
-      "exportedPath": "5.-books/non-published/novel/the-dasterdly-tales-of-the-van-der-graphe-gang-(novel).html",
-      "dependencies": [
-        "lib/media/the-dastardly-tales-of-the-van-der-graphe-gang.png"
-      ]
-    },
-    "5. Books/Non-Published/Novel/The Kings under the Mountains (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 422,
-      "exportedPath": "5.-books/non-published/novel/the-kings-under-the-mountains-(novel).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Novel/The Queen is Dead (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 416,
-      "exportedPath": "5.-books/non-published/novel/the-queen-is-dead-(novel).html",
-      "dependencies": [
-        "lib/media/the-queen-is-dead.png"
-      ]
-    },
-    "5. Books/Non-Published/Novel/The Ravensburg Chronicles (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 414,
-      "exportedPath": "5.-books/non-published/novel/the-ravensburg-chronicles-(novel).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Novel/The Stranger of the Creed (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 442,
-      "exportedPath": "5.-books/non-published/novel/the-stranger-of-the-creed-(novel).html",
-      "dependencies": [
-        "lib/media/the-stranger-of-the-creed_1.png"
-      ]
-    },
-    "5. Books/Non-Published/Novel/Traitor In Love (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 457,
-      "exportedPath": "5.-books/non-published/novel/traitor-in-love-(novel).html",
-      "dependencies": [
-        "lib/media/traitor-in-love.png"
-      ]
-    },
-    "5. Books/Non-Published/Novel/Upon the Precipice (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 543,
-      "exportedPath": "5.-books/non-published/novel/upon-the-precipice-(novel).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Novella/A Ghoulish Case (Novella).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 569,
-      "exportedPath": "5.-books/non-published/novella/a-ghoulish-case-(novella).html",
-      "dependencies": [
-        "lib/media/a-ghoulish-case.png"
-      ]
-    },
-    "5. Books/Non-Published/Novella/Project Kriegerin (Novella).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 453,
-      "exportedPath": "5.-books/non-published/novella/project-kriegerin-(novella).html",
-      "dependencies": [
-        "lib/media/project-kriegerin.jpg"
-      ]
-    },
-    "5. Books/Non-Published/Novella/The Musketeer's Gambit Tales of Honour and Swordplay (Short Story Collection).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 953,
-      "exportedPath": "5.-books/non-published/novella/the-musketeer's-gambit-tales-of-honour-and-swordplay-(short-story-collection).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Short Story/An Ascent into Madness (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 420,
-      "exportedPath": "5.-books/non-published/short-story/an-ascent-into-madness-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Short Story/Asuka Kosuke (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 400,
-      "exportedPath": "5.-books/non-published/short-story/asuka-kosuke-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Short Story/Bey Story (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 394,
-      "exportedPath": "5.-books/non-published/short-story/bey-story-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Short Story/Bright (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 395,
-      "exportedPath": "5.-books/non-published/short-story/bright-(short-story).html",
-      "dependencies": [
-        "lib/media/bright.png"
-      ]
-    },
-    "5. Books/Non-Published/Short Story/Chastitiy's Nook (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 424,
-      "exportedPath": "5.-books/non-published/short-story/chastitiy's-nook-(short-story).html",
-      "dependencies": [
-        "lib/media/chastity's-nook.png"
-      ]
-    },
-    "5. Books/Non-Published/Short Story/Dorothee Story (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 404,
-      "exportedPath": "5.-books/non-published/short-story/dorothee-story-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Short Story/Drifting (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 401,
-      "exportedPath": "5.-books/non-published/short-story/drifting-(short-story).html",
-      "dependencies": [
-        "lib/media/drifting.png"
-      ]
-    },
-    "5. Books/Non-Published/Short Story/Enter the Gates (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 422,
-      "exportedPath": "5.-books/non-published/short-story/enter-the-gates-(short-story).html",
-      "dependencies": [
-        "lib/media/enter-the-gates.png"
-      ]
-    },
-    "5. Books/Non-Published/Short Story/Fae Love Story (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 404,
-      "exportedPath": "5.-books/non-published/short-story/fae-love-story-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Short Story/Fraternal Hunter (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 425,
-      "exportedPath": "5.-books/non-published/short-story/fraternal-hunter-(short-story).html",
-      "dependencies": [
-        "lib/media/fraternal-hunter.png"
-      ]
-    },
-    "5. Books/Non-Published/Short Story/Gunslinger (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 407,
-      "exportedPath": "5.-books/non-published/short-story/gunslinger-(short-story).html",
-      "dependencies": [
-        "lib/media/gunslinger.png"
-      ]
-    },
-    "5. Books/Non-Published/Short Story/Honourable Warrior (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 412,
-      "exportedPath": "5.-books/non-published/short-story/honourable-warrior-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Short Story/House of Sin (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 398,
-      "exportedPath": "5.-books/non-published/short-story/house-of-sin-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Short Story/In Shadow (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 404,
-      "exportedPath": "5.-books/non-published/short-story/in-shadow-(short-story).html",
-      "dependencies": [
-        "lib/media/in-shadow.png"
-      ]
-    },
-    "5. Books/Non-Published/Short Story/Marx (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 384,
-      "exportedPath": "5.-books/non-published/short-story/marx-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Short Story/Nehir Nur (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 404,
-      "exportedPath": "5.-books/non-published/short-story/nehir-nur-(short-story).html",
-      "dependencies": [
-        "lib/media/nehir-nur.png"
-      ]
-    },
-    "5. Books/Non-Published/Short Story/Royal Protector (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 422,
-      "exportedPath": "5.-books/non-published/short-story/royal-protector-(short-story).html",
-      "dependencies": [
-        "lib/media/royal-protector.png"
-      ]
-    },
-    "5. Books/Non-Published/Short Story/Ryder (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 392,
-      "exportedPath": "5.-books/non-published/short-story/ryder-(short-story).html",
-      "dependencies": [
-        "lib/media/ryder.png"
-      ]
-    },
-    "5. Books/Non-Published/Short Story/Schriftstellar (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 404,
-      "exportedPath": "5.-books/non-published/short-story/schriftstellar-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Short Story/Sink the Caeser (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 422,
-      "exportedPath": "5.-books/non-published/short-story/sink-the-caeser-(short-story).html",
-      "dependencies": [
-        "lib/media/sink-the-caesar.png"
-      ]
-    },
-    "5. Books/Non-Published/Short Story/Siren Story (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 398,
-      "exportedPath": "5.-books/non-published/short-story/siren-story-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Short Story/Sister of Sin (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 416,
-      "exportedPath": "5.-books/non-published/short-story/sister-of-sin-(short-story).html",
-      "dependencies": [
-        "lib/media/sister-of-sin.png"
-      ]
-    },
-    "5. Books/Non-Published/Short Story/Spec Ops (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 392,
-      "exportedPath": "5.-books/non-published/short-story/spec-ops-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Short Story/The Case of the Imperial Ripper (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 438,
-      "exportedPath": "5.-books/non-published/short-story/the-case-of-the-imperial-ripper-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Short Story/The Collected Stories of Kimura Yasunori (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 456,
-      "exportedPath": "5.-books/non-published/short-story/the-collected-stories-of-kimura-yasunori-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Short Story/The Darkest Nights (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 412,
-      "exportedPath": "5.-books/non-published/short-story/the-darkest-nights-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Short Story/The Last Kral Sah of Nargaroth (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 467,
-      "exportedPath": "5.-books/non-published/short-story/the-last-kral-sah-of-nargaroth-(short-story).html",
-      "dependencies": [
-        "lib/media/the-last-kräl-şah-of-nargaroth.png"
-      ]
-    },
-    "5. Books/Non-Published/Short Story/The Lost Expedition (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 432,
-      "exportedPath": "5.-books/non-published/short-story/the-lost-expedition-(short-story).html",
-      "dependencies": [
-        "lib/media/the-lost-expedition.png"
-      ]
-    },
-    "5. Books/Non-Published/Short Story/The Order of Scales (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 432,
-      "exportedPath": "5.-books/non-published/short-story/the-order-of-scales-(short-story).html",
-      "dependencies": [
-        "lib/media/the-order-of-scales.png"
-      ]
-    },
-    "5. Books/Non-Published/Short Story/The Tunnels of Despair (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 489,
-      "exportedPath": "5.-books/non-published/short-story/the-tunnels-of-despair-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Short Story/The Twins Unsal (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 420,
-      "exportedPath": "5.-books/non-published/short-story/the-twins-unsal-(short-story).html",
-      "dependencies": [
-        "lib/media/the-twins-unsal.png"
-      ]
-    },
-    "5. Books/Non-Published/Short Story/War Sniper (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 396,
-      "exportedPath": "5.-books/non-published/short-story/war-sniper-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Non-Published/Short Story/Washed Up (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 394,
-      "exportedPath": "5.-books/non-published/short-story/washed-up-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Published/Novel/Arizali (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 554,
-      "exportedPath": "5.-books/published/novel/arizali-(novel).html",
-      "dependencies": [
-        "lib/media/arizali.png"
-      ]
-    },
-    "5. Books/Published/Novel/Entitled (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 700,
-      "exportedPath": "5.-books/published/novel/entitled-(novel).html",
-      "dependencies": [
-        "lib/media/entitled.png"
-      ]
-    },
-    "5. Books/Published/Novel/The Man Who Would Be King (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 1534,
-      "exportedPath": "5.-books/published/novel/the-man-who-would-be-king-(novel).html",
-      "dependencies": [
-        "lib/media/the-man-who-would-be-king-cover.png"
-      ]
-    },
-    "5. Books/Published/Novel/The Ten Rings (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 984,
-      "exportedPath": "5.-books/published/novel/the-ten-rings-(novel).html",
-      "dependencies": [
-        "lib/media/the-ten-rings.png"
-      ]
-    },
-    "5. Books/Published/Novel/The Way The Stars Fall 1. Rebirth (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 689,
-      "exportedPath": "5.-books/published/novel/the-way-the-stars-fall-1.-rebirth-(novel).html",
-      "dependencies": [
-        "lib/media/twtsf-1-rebirth-front.png"
-      ]
-    },
-    "5. Books/Published/Novel/The Way The Stars Fall 2. Resurgence (Novel).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 692,
-      "exportedPath": "5.-books/published/novel/the-way-the-stars-fall-2.-resurgence-(novel).html",
-      "dependencies": [
-        "lib/media/twtsf-2-resurgence-front.png"
-      ]
-    },
-    "5. Books/Published/Novella/Curse Of A Paladin  (Novella).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 578,
-      "exportedPath": "5.-books/published/novella/curse-of-a-paladin-(novella).html",
-      "dependencies": [
-        "lib/media/curseofapaladin.png"
-      ]
-    },
-    "5. Books/Published/Novella/Knightly Vows (Novella).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 560,
-      "exportedPath": "5.-books/published/novella/knightly-vows-(novella).html",
-      "dependencies": [
-        "lib/media/knightly-vows.png"
-      ]
-    },
-    "5. Books/Published/Novella/The Shikari Series 1.0 - Retirement (Novella).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 597,
-      "exportedPath": "5.-books/published/novella/the-shikari-series-1.0-retirement-(novella).html",
-      "dependencies": [
-        "lib/media/shikari-1.0-the-retirement.png"
-      ]
-    },
-    "5. Books/Published/Novella/The Shikari Series 2.0 - The Order of the Shattered Shield (Novella).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 677,
-      "exportedPath": "5.-books/published/novella/the-shikari-series-2.0-the-order-of-the-shattered-shield-(novella).html",
-      "dependencies": [
-        "lib/media/shikari-2.0-order-of-the-shattered-shield.png"
-      ]
-    },
-    "5. Books/Published/Novella/Void Apostasy 1. The Mystery of Gregoruta 13Y (Novella).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 672,
-      "exportedPath": "5.-books/published/novella/void-apostasy-1.-the-mystery-of-gregoruta-13y-(novella).html",
-      "dependencies": [
-        "lib/media/1.-the-mystery-of-gregoruta-13y.png"
-      ]
-    },
-    "5. Books/Published/Novella/Void Apostasy 2. The Eternal Enlightenment (Novella).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 656,
-      "exportedPath": "5.-books/published/novella/void-apostasy-2.-the-eternal-enlightenment-(novella).html",
-      "dependencies": [
-        "lib/media/2.-the-eternal-enlightenment.png"
-      ]
-    },
-    "5. Books/Published/Short Story/A Chance Encounter ( Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 1668,
-      "exportedPath": "5.-books/published/short-story/a-chance-encounter-(-short-story).html",
-      "dependencies": [
-        "lib/media/a-chance-encounter.png"
-      ]
-    },
-    "5. Books/Published/Short Story/A Child's War (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 2408,
-      "exportedPath": "5.-books/published/short-story/a-child's-war-(short-story).html",
-      "dependencies": [
-        "lib/media/a-child's-war.png"
-      ]
-    },
-    "5. Books/Published/Short Story/A Quick Jaunt Over The Wire (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 982,
-      "exportedPath": "5.-books/published/short-story/a-quick-jaunt-over-the-wire-(short-story).html",
-      "dependencies": [
-        "lib/media/a-quick-jaunt.jpg"
-      ]
-    },
-    "5. Books/Published/Short Story/As The World Went Black (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 436,
-      "exportedPath": "5.-books/published/short-story/as-the-world-went-black-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Published/Short Story/Comrade In Arms (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 435,
-      "exportedPath": "5.-books/published/short-story/comrade-in-arms-(short-story).html",
-      "dependencies": [
-        "lib/media/comrades-in-arms.png"
-      ]
-    },
-    "5. Books/Published/Short Story/Five Finger Discount (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 731,
-      "exportedPath": "5.-books/published/short-story/five-finger-discount-(short-story).html",
-      "dependencies": [
-        "lib/media/five-finger-discount.png"
-      ]
-    },
-    "5. Books/Published/Short Story/For Whom The Bells Toll (Short story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 1907,
-      "exportedPath": "5.-books/published/short-story/for-whom-the-bells-toll-(short-story).html",
-      "dependencies": []
-    },
-    "5. Books/Published/Short Story/Heiress (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 410,
-      "exportedPath": "5.-books/published/short-story/heiress-(short-story).html",
-      "dependencies": [
-        "lib/media/heiress.png"
-      ]
-    },
-    "5. Books/Published/Short Story/Hold the Line (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 705,
-      "exportedPath": "5.-books/published/short-story/hold-the-line-(short-story).html",
-      "dependencies": [
-        "lib/media/hold-the-line.png"
-      ]
-    },
-    "5. Books/Published/Short Story/Homestead (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 416,
-      "exportedPath": "5.-books/published/short-story/homestead-(short-story).html",
-      "dependencies": [
-        "lib/media/homestead.png"
-      ]
-    },
-    "5. Books/Published/Short Story/I'll Keep Coming (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 434,
-      "exportedPath": "5.-books/published/short-story/i'll-keep-coming-(short-story).html",
-      "dependencies": [
-        "lib/media/illkeepcoming.png"
-      ]
-    },
-    "5. Books/Published/Short Story/Invitation (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 419,
-      "exportedPath": "5.-books/published/short-story/invitation-(short-story).html",
-      "dependencies": [
-        "lib/media/invitation.png"
-      ]
-    },
-    "5. Books/Published/Short Story/Lost (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 426,
-      "exportedPath": "5.-books/published/short-story/lost-(short-story).html",
-      "dependencies": [
-        "lib/media/lost.png"
-      ]
-    },
-    "5. Books/Published/Short Story/Memory (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 407,
-      "exportedPath": "5.-books/published/short-story/memory-(short-story).html",
-      "dependencies": [
-        "lib/media/memory.png"
-      ]
-    },
-    "5. Books/Published/Short Story/Of Knights And Kings (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 449,
-      "exportedPath": "5.-books/published/short-story/of-knights-and-kings-(short-story).html",
-      "dependencies": [
-        "lib/media/of-knights-and-kings.png"
-      ]
-    },
-    "5. Books/Published/Short Story/Old Wounds (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 387,
-      "exportedPath": "5.-books/published/short-story/old-wounds-(short-story).html",
-      "dependencies": [
-        "lib/media/old-wounds.png"
-      ]
-    },
-    "5. Books/Published/Short Story/On A Night Darkly (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 509,
-      "exportedPath": "5.-books/published/short-story/on-a-night-darkly-(short-story).html",
-      "dependencies": [
-        "lib/media/on-a-night-darkly.png"
-      ]
-    },
-    "5. Books/Published/Short Story/Rendezvous (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 388,
-      "exportedPath": "5.-books/published/short-story/rendezvous-(short-story).html",
-      "dependencies": [
-        "lib/media/rendezvous.png"
-      ]
-    },
-    "5. Books/Published/Short Story/Shield-Maiden (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 396,
-      "exportedPath": "5.-books/published/short-story/shield-maiden-(short-story).html",
-      "dependencies": [
-        "lib/media/shield-maiden.png"
-      ]
-    },
-    "5. Books/Published/Short Story/Siege of Kalcata (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 410,
-      "exportedPath": "5.-books/published/short-story/siege-of-kalcata-(short-story).html",
-      "dependencies": [
-        "lib/media/siege-of-kalcata.png"
-      ]
-    },
-    "5. Books/Published/Short Story/The Curse of Humanity (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 420,
-      "exportedPath": "5.-books/published/short-story/the-curse-of-humanity-(short-story).html",
-      "dependencies": [
-        "lib/media/the-curse-of-humanity.png"
-      ]
-    },
-    "5. Books/Published/Short Story/The Fall - Ghost Arc (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 426,
-      "exportedPath": "5.-books/published/short-story/the-fall-ghost-arc-(short-story).html",
-      "dependencies": [
-        "lib/media/the-fall-ghost-stories.png"
-      ]
-    },
-    "5. Books/Published/Short Story/The Fall - Navy Arc (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 420,
-      "exportedPath": "5.-books/published/short-story/the-fall-navy-arc-(short-story).html",
-      "dependencies": [
-        "lib/media/the-fall-the-navy.png"
-      ]
-    },
-    "5. Books/Published/Short Story/The Last Terran Sol (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 420,
-      "exportedPath": "5.-books/published/short-story/the-last-terran-sol-(short-story).html",
-      "dependencies": [
-        "lib/media/the-last-terran-sol.png"
-      ]
-    },
-    "5. Books/Published/Short Story/The Seeds of Beauvon (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 1162,
-      "exportedPath": "5.-books/published/short-story/the-seeds-of-beauvon-(short-story).html",
-      "dependencies": [
-        "lib/media/the-seeds-of-beauvon.png"
-      ]
-    },
-    "5. Books/Published/Short Story/The Shikari Series 0.5 - For Monsters (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 455,
-      "exportedPath": "5.-books/published/short-story/the-shikari-series-0.5-for-monsters-(short-story).html",
-      "dependencies": [
-        "lib/media/shikari-0.5-for-monsters.png"
-      ]
-    },
-    "5. Books/Published/Short Story/The Usta Zalim (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 687,
-      "exportedPath": "5.-books/published/short-story/the-usta-zalim-(short-story).html",
-      "dependencies": [
-        "lib/media/the-usta-zalim.png"
-      ]
-    },
-    "5. Books/Published/Short Story/They Came At Night (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 797,
-      "exportedPath": "5.-books/published/short-story/they-came-at-night-(short-story).html",
-      "dependencies": [
-        "lib/media/they-came-at-night.png"
-      ]
-    },
-    "5. Books/Published/Short Story/Throuble on the Intercontinental (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 1666,
-      "exportedPath": "5.-books/published/short-story/throuble-on-the-intercontinental-(short-story).html",
-      "dependencies": [
-        "lib/media/trouble-on-the-intercontinental.png"
-      ]
-    },
-    "5. Books/Published/Short Story/Upon My Return (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 429,
-      "exportedPath": "5.-books/published/short-story/upon-my-return-(short-story).html",
-      "dependencies": [
-        "lib/media/uponmyreturn.png"
-      ]
-    },
-    "5. Books/Faithless 1. Faith In Drugs (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 2608,
-      "exportedPath": "5.-books/faithless-1.-faith-in-drugs-(short-story).html",
-      "dependencies": [
-        "lib/media/[faith-1]-faith-in-drugs.png"
-      ]
-    },
-    "5. Books/Faithless 2. Faith In Love (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 654,
-      "exportedPath": "5.-books/faithless-2.-faith-in-love-(short-story).html",
-      "dependencies": [
-        "lib/media/[faith-2]-faith-in-love.png"
-      ]
-    },
-    "5. Books/Faithless 3. Faith In School (Short Story).md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 661,
-      "exportedPath": "5.-books/faithless-3.-faith-in-school-(short-story).html",
-      "dependencies": [
-        "lib/media/[faith-3]-faith-in-school.png"
-      ]
-    },
-    "5. Books/List of Books.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 4062,
-      "exportedPath": "5.-books/list-of-books.html",
-      "dependencies": []
-    },
-    "Change Log.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 1056,
-      "exportedPath": "change-log.html",
-      "dependencies": []
-    },
-    "Main Menu.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 2862,
-      "exportedPath": "main-menu.html",
-      "dependencies": []
-    },
-    "publish.css": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 53798,
-      "exportedPath": "publish.css",
-      "dependencies": []
-    },
-    "README.md": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 0,
-      "exportedPath": "readme.html",
-      "dependencies": []
-    },
-    "lib/media/screenshot_1.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 315070,
-      "exportedPath": "lib/media/screenshot_1.png",
-      "dependencies": []
-    },
-    "lib/media/screenshot_2.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 237508,
-      "exportedPath": "lib/media/screenshot_2.png",
-      "dependencies": []
-    },
-    "lib/media/screenshot_3.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 201706,
-      "exportedPath": "lib/media/screenshot_3.png",
-      "dependencies": []
-    },
-    "lib/media/screenshot_4.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 165661,
-      "exportedPath": "lib/media/screenshot_4.png",
-      "dependencies": []
-    },
-    "lib/media/screenshot_5.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 151474,
-      "exportedPath": "lib/media/screenshot_5.png",
-      "dependencies": []
-    },
-    "lib/media/screenshot_6.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 174161,
-      "exportedPath": "lib/media/screenshot_6.png",
-      "dependencies": []
-    },
-    "lib/media/screenshot_7.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 243988,
-      "exportedPath": "lib/media/screenshot_7.png",
-      "dependencies": []
-    },
-    "lib/media/screenshot_8.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 227335,
-      "exportedPath": "lib/media/screenshot_8.png",
-      "dependencies": []
-    },
-    "lib/media/screenshot_9.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 225101,
-      "exportedPath": "lib/media/screenshot_9.png",
-      "dependencies": []
-    },
-    "lib/media/screenshot_10.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 218317,
-      "exportedPath": "lib/media/screenshot_10.png",
-      "dependencies": []
-    },
-    "lib/media/screenshot_11.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 178055,
-      "exportedPath": "lib/media/screenshot_11.png",
-      "dependencies": []
-    },
-    "lib/media/screenshot_12.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 60795,
-      "exportedPath": "lib/media/screenshot_12.png",
-      "dependencies": []
-    },
-    "lib/media/creative-writing.jpg": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 358447,
-      "exportedPath": "lib/media/creative-writing.jpg",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20220711174938.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 160224,
-      "exportedPath": "lib/media/pasted-image-20220711174938.png",
-      "dependencies": []
-    },
-    "lib/media/pasted-image-20220711175321.jpg": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 20107,
-      "exportedPath": "lib/media/pasted-image-20220711175321.jpg",
-      "dependencies": []
-    },
-    "lib/media/quillcutiemark.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 46005,
-      "exportedPath": "lib/media/quillcutiemark.png",
-      "dependencies": []
-    },
-    "lib/media/a-writer's-firestorm.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 719784,
-      "exportedPath": "lib/media/a-writer's-firestorm.png",
-      "dependencies": []
-    },
-    "lib/media/citadel-of-darkness.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 699718,
-      "exportedPath": "lib/media/citadel-of-darkness.png",
-      "dependencies": []
-    },
-    "lib/media/empire-of-love.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 494039,
-      "exportedPath": "lib/media/empire-of-love.png",
-      "dependencies": []
-    },
-    "lib/media/harlot-of-yesterday.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 1006305,
-      "exportedPath": "lib/media/harlot-of-yesterday.png",
-      "dependencies": []
-    },
-    "lib/media/lost-in-darkness.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 721321,
-      "exportedPath": "lib/media/lost-in-darkness.png",
-      "dependencies": []
-    },
-    "lib/media/rosutko.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 636585,
-      "exportedPath": "lib/media/rosutko.png",
-      "dependencies": []
-    },
-    "lib/media/the-ascetic-of-appetence.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 688170,
-      "exportedPath": "lib/media/the-ascetic-of-appetence.png",
-      "dependencies": []
-    },
-    "lib/media/the-children-of-the-banquet.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 768644,
-      "exportedPath": "lib/media/the-children-of-the-banquet.png",
-      "dependencies": []
-    },
-    "lib/media/the-dastardly-tales-of-the-van-der-graphe-gang.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 897346,
-      "exportedPath": "lib/media/the-dastardly-tales-of-the-van-der-graphe-gang.png",
-      "dependencies": []
-    },
-    "lib/media/the-queen-is-dead.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 459667,
-      "exportedPath": "lib/media/the-queen-is-dead.png",
-      "dependencies": []
-    },
-    "lib/media/the-stranger-of-the-creed_1.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 682231,
-      "exportedPath": "lib/media/the-stranger-of-the-creed_1.png",
-      "dependencies": []
-    },
-    "lib/media/traitor-in-love.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 1036919,
-      "exportedPath": "lib/media/traitor-in-love.png",
-      "dependencies": []
-    },
-    "lib/media/a-ghoulish-case.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 912804,
-      "exportedPath": "lib/media/a-ghoulish-case.png",
-      "dependencies": []
-    },
-    "lib/media/project-kriegerin.jpg": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 152120,
-      "exportedPath": "lib/media/project-kriegerin.jpg",
-      "dependencies": []
-    },
-    "lib/media/bright.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 625874,
-      "exportedPath": "lib/media/bright.png",
-      "dependencies": []
-    },
-    "lib/media/chastity's-nook.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 827201,
-      "exportedPath": "lib/media/chastity's-nook.png",
-      "dependencies": []
-    },
-    "lib/media/drifting.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 703555,
-      "exportedPath": "lib/media/drifting.png",
-      "dependencies": []
-    },
-    "lib/media/enter-the-gates.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 442087,
-      "exportedPath": "lib/media/enter-the-gates.png",
-      "dependencies": []
-    },
-    "lib/media/fraternal-hunter.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 810143,
-      "exportedPath": "lib/media/fraternal-hunter.png",
-      "dependencies": []
-    },
-    "lib/media/gunslinger.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 929281,
-      "exportedPath": "lib/media/gunslinger.png",
-      "dependencies": []
-    },
-    "lib/media/in-shadow.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 670330,
-      "exportedPath": "lib/media/in-shadow.png",
-      "dependencies": []
-    },
-    "lib/media/nehir-nur.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 726367,
-      "exportedPath": "lib/media/nehir-nur.png",
-      "dependencies": []
-    },
-    "lib/media/royal-protector.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 1001223,
-      "exportedPath": "lib/media/royal-protector.png",
-      "dependencies": []
-    },
-    "lib/media/ryder.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 707551,
-      "exportedPath": "lib/media/ryder.png",
-      "dependencies": []
-    },
-    "lib/media/sink-the-caesar.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 229268,
-      "exportedPath": "lib/media/sink-the-caesar.png",
-      "dependencies": []
-    },
-    "lib/media/sister-of-sin.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 988314,
-      "exportedPath": "lib/media/sister-of-sin.png",
-      "dependencies": []
-    },
-    "lib/media/the-last-kräl-şah-of-nargaroth.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 791504,
-      "exportedPath": "lib/media/the-last-kräl-şah-of-nargaroth.png",
-      "dependencies": []
-    },
-    "lib/media/the-lost-expedition.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 728976,
-      "exportedPath": "lib/media/the-lost-expedition.png",
-      "dependencies": []
-    },
-    "lib/media/the-order-of-scales.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 918217,
-      "exportedPath": "lib/media/the-order-of-scales.png",
-      "dependencies": []
-    },
-    "lib/media/the-twins-unsal.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 1164830,
-      "exportedPath": "lib/media/the-twins-unsal.png",
-      "dependencies": []
-    },
-    "lib/media/arizali.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 891771,
-      "exportedPath": "lib/media/arizali.png",
-      "dependencies": []
-    },
-    "lib/media/entitled.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 732607,
-      "exportedPath": "lib/media/entitled.png",
-      "dependencies": []
-    },
-    "lib/media/the-man-who-would-be-king-cover.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 6992755,
-      "exportedPath": "lib/media/the-man-who-would-be-king-cover.png",
-      "dependencies": []
-    },
-    "lib/media/the-ten-rings.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 748333,
-      "exportedPath": "lib/media/the-ten-rings.png",
-      "dependencies": []
-    },
-    "lib/media/twtsf-1-rebirth-front.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 11286780,
-      "exportedPath": "lib/media/twtsf-1-rebirth-front.png",
-      "dependencies": []
-    },
-    "lib/media/twtsf-2-resurgence-front.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 6203254,
-      "exportedPath": "lib/media/twtsf-2-resurgence-front.png",
-      "dependencies": []
-    },
-    "lib/media/curseofapaladin.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 487221,
-      "exportedPath": "lib/media/curseofapaladin.png",
-      "dependencies": []
-    },
-    "lib/media/knightly-vows.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 613204,
-      "exportedPath": "lib/media/knightly-vows.png",
-      "dependencies": []
-    },
-    "lib/media/shikari-1.0-the-retirement.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 790709,
-      "exportedPath": "lib/media/shikari-1.0-the-retirement.png",
-      "dependencies": []
-    },
-    "lib/media/shikari-2.0-order-of-the-shattered-shield.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 719900,
-      "exportedPath": "lib/media/shikari-2.0-order-of-the-shattered-shield.png",
-      "dependencies": []
-    },
-    "lib/media/1.-the-mystery-of-gregoruta-13y.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 673351,
-      "exportedPath": "lib/media/1.-the-mystery-of-gregoruta-13y.png",
-      "dependencies": []
-    },
-    "lib/media/2.-the-eternal-enlightenment.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 763885,
-      "exportedPath": "lib/media/2.-the-eternal-enlightenment.png",
-      "dependencies": []
-    },
-    "lib/media/a-chance-encounter.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 977848,
-      "exportedPath": "lib/media/a-chance-encounter.png",
-      "dependencies": []
-    },
-    "lib/media/a-child's-war.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 639937,
-      "exportedPath": "lib/media/a-child's-war.png",
-      "dependencies": []
-    },
-    "lib/media/a-quick-jaunt.jpg": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 617661,
-      "exportedPath": "lib/media/a-quick-jaunt.jpg",
-      "dependencies": []
-    },
-    "lib/media/comrades-in-arms.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 775790,
-      "exportedPath": "lib/media/comrades-in-arms.png",
-      "dependencies": []
-    },
-    "lib/media/five-finger-discount.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 1043116,
-      "exportedPath": "lib/media/five-finger-discount.png",
-      "dependencies": []
-    },
-    "lib/media/heiress.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 753491,
-      "exportedPath": "lib/media/heiress.png",
-      "dependencies": []
-    },
-    "lib/media/hold-the-line.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 673012,
-      "exportedPath": "lib/media/hold-the-line.png",
-      "dependencies": []
-    },
-    "lib/media/homestead.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 557353,
-      "exportedPath": "lib/media/homestead.png",
-      "dependencies": []
-    },
-    "lib/media/illkeepcoming.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 981242,
-      "exportedPath": "lib/media/illkeepcoming.png",
-      "dependencies": []
-    },
-    "lib/media/invitation.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 784254,
-      "exportedPath": "lib/media/invitation.png",
-      "dependencies": []
-    },
-    "lib/media/lost.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 638339,
-      "exportedPath": "lib/media/lost.png",
-      "dependencies": []
-    },
-    "lib/media/memory.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 633900,
-      "exportedPath": "lib/media/memory.png",
-      "dependencies": []
-    },
-    "lib/media/of-knights-and-kings.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 799146,
-      "exportedPath": "lib/media/of-knights-and-kings.png",
-      "dependencies": []
-    },
-    "lib/media/old-wounds.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 171664,
-      "exportedPath": "lib/media/old-wounds.png",
-      "dependencies": []
-    },
-    "lib/media/on-a-night-darkly.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 825906,
-      "exportedPath": "lib/media/on-a-night-darkly.png",
-      "dependencies": []
-    },
-    "lib/media/rendezvous.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 725354,
-      "exportedPath": "lib/media/rendezvous.png",
-      "dependencies": []
-    },
-    "lib/media/shield-maiden.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 732479,
-      "exportedPath": "lib/media/shield-maiden.png",
-      "dependencies": []
-    },
-    "lib/media/siege-of-kalcata.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 928839,
-      "exportedPath": "lib/media/siege-of-kalcata.png",
-      "dependencies": []
-    },
-    "lib/media/the-curse-of-humanity.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 603829,
-      "exportedPath": "lib/media/the-curse-of-humanity.png",
-      "dependencies": []
-    },
-    "lib/media/the-fall-ghost-stories.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 123913,
-      "exportedPath": "lib/media/the-fall-ghost-stories.png",
-      "dependencies": []
-    },
-    "lib/media/the-fall-the-navy.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 122194,
-      "exportedPath": "lib/media/the-fall-the-navy.png",
-      "dependencies": []
-    },
-    "lib/media/the-last-terran-sol.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 945359,
-      "exportedPath": "lib/media/the-last-terran-sol.png",
-      "dependencies": []
-    },
-    "lib/media/the-seeds-of-beauvon.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 852988,
-      "exportedPath": "lib/media/the-seeds-of-beauvon.png",
-      "dependencies": []
-    },
-    "lib/media/shikari-0.5-for-monsters.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 979918,
-      "exportedPath": "lib/media/shikari-0.5-for-monsters.png",
-      "dependencies": []
-    },
-    "lib/media/the-usta-zalim.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 626223,
-      "exportedPath": "lib/media/the-usta-zalim.png",
-      "dependencies": []
-    },
-    "lib/media/they-came-at-night.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 551330,
-      "exportedPath": "lib/media/they-came-at-night.png",
+    "2. Roleplay/Citadel of Darkness Character List.md": {
+      "modifiedTime": 1737912388411,
+      "sourceSize": 1821,
+      "exportedPath": "2.-roleplay/citadel-of-darkness-character-list.html",
       "dependencies": []
     },
-    "lib/media/trouble-on-the-intercontinental.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 494379,
-      "exportedPath": "lib/media/trouble-on-the-intercontinental.png",
+    "2. Roleplay/Faithless Character List.md": {
+      "modifiedTime": 1737912388411,
+      "sourceSize": 1007,
+      "exportedPath": "2.-roleplay/faithless-character-list.html",
       "dependencies": []
     },
-    "lib/media/uponmyreturn.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 983727,
-      "exportedPath": "lib/media/uponmyreturn.png",
+    "2. Roleplay/Fera World Character List.md": {
+      "modifiedTime": 1737912388411,
+      "sourceSize": 26445,
+      "exportedPath": "2.-roleplay/fera-world-character-list.html",
       "dependencies": []
     },
-    "lib/media/[faith-1]-faith-in-drugs.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 227844,
-      "exportedPath": "lib/media/[faith-1]-faith-in-drugs.png",
+    "2. Roleplay/FULL Roleplay Character List.md": {
+      "modifiedTime": 1737912388411,
+      "sourceSize": 26732,
+      "exportedPath": "2.-roleplay/full-roleplay-character-list.html",
       "dependencies": []
     },
-    "lib/media/[faith-2]-faith-in-love.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 170314,
-      "exportedPath": "lib/media/[faith-2]-faith-in-love.png",
+    "2. Roleplay/Roleplay Starters.md": {
+      "modifiedTime": 1737912388411,
+      "sourceSize": 43531,
+      "exportedPath": "2.-roleplay/roleplay-starters.html",
       "dependencies": []
     },
-    "lib/media/[faith-3]-faith-in-school.png": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 243977,
-      "exportedPath": "lib/media/[faith-3]-faith-in-school.png",
+    "2. Roleplay/Void Apostasy Character List.md": {
+      "modifiedTime": 1737912388411,
+      "sourceSize": 477,
+      "exportedPath": "2.-roleplay/void-apostasy-character-list.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 68551,
+      "modifiedTime": 1737912388411,
+      "sourceSize": 3444,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1737903134364,
-      "sourceSize": 15056,
+      "modifiedTime": 1737912388411,
+      "sourceSize": 720,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 131018,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1737903134364,
+      "modifiedTime": 1737912388411,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
